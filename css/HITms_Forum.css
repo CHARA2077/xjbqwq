@@ -1,0 +1,32 @@
+
+@font-face {
+    font-family: 'CustomFont';
+    src: url('../fonts/xingkai.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  .title{
+	/*margin: 20px;
+	width: 200px;
+	background: linear-gradient(90deg, rgb(1, 39, 229), rgb(206, 0, 252));
+	-webkit-text-fill-color: transparent;
+	-webkit-background-clip: text;
+    font-family: 'CustomFont', sans-serif;
+    position: absolute;
+    top:5px;
+    left:5px ;*/
+    color: #ff0707d0;
+}
+
+a:link {text-decoration:none;}    /* unvisited link */
+a:visited {text-decoration:none;} /* visited link */
+a:hover {text-decoration:underline;}   /* mouse over link */
+a:active {text-decoration:underline;}  /* selected link */
+
+.navigation
+{
+    position: relative;
+    width:auto;
+    top:500px;
+    left:5px ;
+}
